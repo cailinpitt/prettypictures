@@ -1,0 +1,23 @@
+{
+  "name": "prettypictures",
+  "version": "1.0.0",
+  "description": "Generate a pretty picture",
+  "main": "app.js",
+  "dependencies": {
+    "canvas": "github:Automattic/node-canvas#198080580a0e3938c48daae357b88a1638a9ddcd",
+    "random-hex-color": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cailinpitt/prettypictures.git"
+  },
+  "author": "Cailin Pitt <cailinpitt1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cailinpitt/prettypictures/issues"
+  },
+  "homepage": "https://github.com/cailinpitt/prettypictures#readme"
+}
