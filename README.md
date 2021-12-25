@@ -1,7 +1,7 @@
 # prettypictures
-Generates a 3000px by 3000px image of 100 random colors.
+Generates a 3000px by 3000px image of four randomly colored rectangles with random sizes.
 
-![Example image](example.png)
+![Example image](example.gif)
 
 ## How to run
 ```shell
